@@ -1,0 +1,16 @@
+C:\Users\maske\source\repos\WallpaperImageInput\WallpaperImageInput\bin\Debug\net6.0-windows\WallpaperImageInput.exe
+C:\Users\maske\source\repos\WallpaperImageInput\WallpaperImageInput\bin\Debug\net6.0-windows\WallpaperImageInput.deps.json
+C:\Users\maske\source\repos\WallpaperImageInput\WallpaperImageInput\bin\Debug\net6.0-windows\WallpaperImageInput.runtimeconfig.json
+C:\Users\maske\source\repos\WallpaperImageInput\WallpaperImageInput\bin\Debug\net6.0-windows\WallpaperImageInput.dll
+C:\Users\maske\source\repos\WallpaperImageInput\WallpaperImageInput\bin\Debug\net6.0-windows\WallpaperImageInput.pdb
+C:\Users\maske\source\repos\WallpaperImageInput\WallpaperImageInput\obj\Debug\net6.0-windows\WallpaperImageInput.Form1.resources
+C:\Users\maske\source\repos\WallpaperImageInput\WallpaperImageInput\obj\Debug\net6.0-windows\WallpaperImageInput.csproj.GenerateResource.cache
+C:\Users\maske\source\repos\WallpaperImageInput\WallpaperImageInput\obj\Debug\net6.0-windows\WallpaperImageInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maske\source\repos\WallpaperImageInput\WallpaperImageInput\obj\Debug\net6.0-windows\WallpaperImageInput.AssemblyInfoInputs.cache
+C:\Users\maske\source\repos\WallpaperImageInput\WallpaperImageInput\obj\Debug\net6.0-windows\WallpaperImageInput.AssemblyInfo.cs
+C:\Users\maske\source\repos\WallpaperImageInput\WallpaperImageInput\obj\Debug\net6.0-windows\WallpaperImageInput.csproj.CoreCompileInputs.cache
+C:\Users\maske\source\repos\WallpaperImageInput\WallpaperImageInput\obj\Debug\net6.0-windows\WallpaperImageInput.dll
+C:\Users\maske\source\repos\WallpaperImageInput\WallpaperImageInput\obj\Debug\net6.0-windows\refint\WallpaperImageInput.dll
+C:\Users\maske\source\repos\WallpaperImageInput\WallpaperImageInput\obj\Debug\net6.0-windows\WallpaperImageInput.pdb
+C:\Users\maske\source\repos\WallpaperImageInput\WallpaperImageInput\obj\Debug\net6.0-windows\WallpaperImageInput.genruntimeconfig.cache
+C:\Users\maske\source\repos\WallpaperImageInput\WallpaperImageInput\obj\Debug\net6.0-windows\ref\WallpaperImageInput.dll
